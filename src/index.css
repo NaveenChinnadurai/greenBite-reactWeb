@@ -1,0 +1,18 @@
+*{
+    font-family: 'Satoshi', sans-serif;
+}
+:root{
+    --primary:#F2CB57;
+}
+.w-fit{
+    width: fit-content;
+}
+.h-fit{
+    height: fit-content;
+}
+.btn-bg{
+    background-color: var(--primary);
+}
+.br-20{
+    border-radius: 30px;
+}
